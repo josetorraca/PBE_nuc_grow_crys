@@ -1,0 +1,32 @@
+date: 27/03/2019
+data_note: |
+  Concentracao na saturacao (eq da calcita)
+  5 mM NaHCO3 (0,42 g/L)
+  0,14mM CaCl2.2H2O (0,00205 g/L)
+compounds:
+  NaHCO3:
+    mass_grams: 0.2520
+    volume_mL: 250
+  CaCl2.2H2O:
+    mass_grams: 0.0123
+    volume_mL: 250
+  H20:
+    volume_mL: 100.0
+volume_mL: 600.0
+temperature: 25°C
+mixing_speed: 500 RPM
+qicpic_flow_rate_mL/min: 160
+QICPIC_configs: |
+  fr100hz, measure 60s, rep 200 x after 10s interval
+  FERET MEAN BASE
+Metodologia: Adicionar 1st CaCl2 / 2nd NaHCO3 (acompanhamento do pH desde o ponto de mistura + 20 minutos)
+2 Pares de imas (verdes - 3500 G)
+time_start: 2h50PC
+time_events:
+  crystal_addition:
+    time: 3h10PC
+    mass_g: 0.10
+    compound: CaCO3
+time_end: (10H50PC - 28/03)
+final_measurements:
+  caco3_solid_g: 0.0533

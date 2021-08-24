@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "/home/caio/anaconda3/bin/python",
+    "python.unitTest.pyTestArgs": [
+        "./spikes"
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": true,
+    "files.watcherExclude": {
+        "**/.venv": true,
+        "**/venv": true
+    }
+}

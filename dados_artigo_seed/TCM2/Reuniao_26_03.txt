@@ -1,0 +1,15 @@
+Artigo relativo à dissertação:
+-nucleação/crescimento aparece antes com campos magneticos
+-estabilidade da vaterita maior com campo magnetico
+
+Novos experimentos:
+-Como favorecer apenas a agregacao? Eliminando totalmente nucleacao/crescimento. (resolvido)
+-1a opcao: trabalhando inicialmente em uma supersaturacao mais baixa
+-OBS: erro do phmetro (resolvido)
+-Adicionar: 1st Cacl2 - 2nd NaHCO3 (acompanhamento do pH desde o ponto de mistura + 20 minutos)
+-Adicao de sementes : 0.1g
+-objetivo secundario: melhorar a estimacao do kv
+-salvar dados_TC : formato .yml (resolvido)
+-remover virgula do arquivo CPNUM (resolvido)
+-supersaturacao inicial: 5mM NaHCO3 = 0.252g
+		0.14mM CaCl2.2H2O = 0.0123 g 

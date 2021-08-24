@@ -1,0 +1,161 @@
+from matplotlib import pyplot as plt
+import numpy as np
+
+def run():
+    x = mdl.ind.get_x(y, 0)
+    N = mdl.ind.get_N(y, 0)
+    out_span = mdl.out_span
+    x_span = [out.x for out in out_span]
+    N_span = [out.N for out in out_span]
+
+    m_Ca = np.array([out.mCa for out in out_span])
+    m_C = np.array([out.mC for out in out_span])
+    m_Na = np.array([out.mNa for out in out_span])
+    m_Cl = np.array([out.mCl for out in out_span])
+    V = np.array([out.V for out in out_span])
+    S = np.array([out.S for out in out_span])
+    Ksp = np.array([out.Ksp for out in out_span])
+    massCryst = np.array([out.massCrystal for out in out_span])
+    mu0 = np.array([np.sum(out.N) for out in out_span])
+    mu1 = np.array([np.sum(out.x*out.N) for out in out_span])
+    mCaCl2_added = np.array([out.mCaCl2_added for out in out_span])
+    IAP = np.array([out.IAP for out in out_span])
+    pH = np.array([out.pH for out in out_span])
+    I = np.array([out.I for out in out_span])
+    sigma = np.array([out.sigma for out in out_span])
+    #G = np.array([out.G for out in out_span])
+    B = np.array([out.B for out in out_span])
+    mCaCO3_if_preciptated = mCaCl2_added/mdl.pp.M_CaCl2 * mdl.pp.M_CaCO3
+    VolCrystmean = mu1 / mu0
+    Lmean = (VolCrystmean)**(1/3) * 1e4
+    numberOfParticles = mu0 * V
+    x_len_micrometro = x**(1/3) * 1e4 #cm to mum
+    x0_micrometro3 = x0 * 1e12 #cm^3 to mum
+    x_micrometro3 = x * 1e12 #cm^3 to mum
+    # massCryst = np.array([np.sum(out[0]**3*out[1]*mdl.pp.rho_c*mdl.kv*V[i])
+    #     for i, out in enumerate(out_span)
+    # ])
+    m_Carbone_tot = m_C + mdl.pp.M_C/mdl.pp.M_CaCO3 * massCryst
+
+    plt.figure(figsize=(16,12))
+    plt.subplot(2,3,1)
+    plt.title('PSD - $N_i$')
+    plt.plot(x0, N0, '.-', label='ini')
+    plt.plot(x, N, '.-', label='end')
+    plt.xlabel('x [cm^3]')
+    plt.subplot(2,3,2)
+    plt.title('PSD - $n_i$')
+    l = np.hstack((l0[0], (x[1:] + x[0:-1])*0.5, x[-1] + (x[-1]-x[-2])*0.5 ))
+    n = N / (l[1:] - l[0:-1])
+    plt.plot(x, n, '.-', label='end')
+    plt.xlabel('x [cm^3]')
+    plt.subplot(2,3,3)
+    plt.title('$B_0(t)$')
+    plt.plot(tspan, B, '.-', label='B')
+    plt.xlabel('time [min]')
+    plt.subplot(2,3,4)
+    plt.title('Mean size')
+    plt.plot(tspan, Lmean, '.-', label='size')
+    plt.xlabel('time [min]')
+    plt.ylabel('linear size [$\mu$m]')
+    ax2 = plt.gca().twinx()
+    ax2.plot(tspan, VolCrystmean*1e12, 'v-', label='vol')
+    plt.ylabel('volumetric size [$\mu m^3$]')
+    plt.legend()
+    plt.subplot(2,3,5)
+    plt.title('Number of Particles')
+    plt.plot(tspan, numberOfParticles, '.-')
+    plt.xlabel('time [min]')
+    plt.subplot(2,3,6)
+    plt.title('PSD - $N_i$ - Length based')
+    plt.plot(x_len_micrometro, N, '.-', label='end')
+    plt.xlabel('length [$\mu$m]')
+
+    print('C final = {}'.format(mdl.ind.get_mdl(y)[0]))
+
+    plt.figure()
+    plt.title('Crystal mass')
+    plt.xlabel('t [min]')
+    plt.ylabel('$m_{crystal}$ [g]')
+    plt.plot(tspan, massCryst, '.-')
+    plt.plot([tspan[0], tspan[-1]], np.ones(2)*maxConditions['CaCO3-max'], '--', label='CaCO3-max')
+    plt.plot(tspan, mCaCl2_added, ':', label='CaCl2 added')
+    plt.plot(tspan, mCaCO3_if_preciptated, ':', label='CaCO3 max sim')
+    plt.legend()
+
+    plt.figure()
+    plt.title('Species masses')
+    plt.ylabel('m [g]')
+    plt.xlabel('t [min]')
+    plt.plot(tspan, m_Ca, '.-',  label='Ca')
+    plt.plot(tspan, m_C, '.-',  label='C')
+    # plt.plot(tspan, m_Na, label='Na')
+    plt.plot(tspan, m_Cl, '.-',  label='Cl')
+    plt.plot([tspan[0], tspan[-1]], np.ones(2)*maxConditions['Cl-max'], '--', label='Cl-max')
+    plt.legend()
+
+    plt.figure()
+    plt.title('Vessel volume')
+    plt.xlabel('t [min]')
+    plt.ylabel('$V(t)$ [$cm^3$]')
+    plt.plot(tspan, V, '.-')
+
+    plt.figure()
+    plt.suptitle('Check consistency')
+    plt.subplot(2,1,1)
+    plt.plot(tspan, m_Carbone_tot, '.-')
+    plt.xlabel('t [min]')
+    plt.ylabel('m_C global [g]')
+    plt.subplot(2,1,2)
+    plt.plot(tspan, m_Carbone_tot/m_Carbone_tot[0], '.-')
+    plt.xlabel('t [min]')
+    plt.ylabel('m_C global [g] ratio')
+
+    plt.figure(figsize=(8,12))
+    plt.title('Supersaturation and IAP vs Ksp')
+    plt.subplot(2,1,1)
+    plt.ylabel('S')
+    plt.xlabel('t [min]')
+    plt.plot(tspan, S, '.-', label='S')
+    plt.subplot(2,1,2)
+    plt.plot(tspan, Ksp, '.-', label='$K_{sp}$')
+    plt.plot(tspan, IAP, '.-', label='$IAP$')
+    plt.legend()
+    plt.xlabel('t [min]')
+    plt.ylabel('IAP and Ksp [-]')
+
+    plt.figure(figsize=(8,12))
+    plt.subplot(3,1,1)
+    plt.ylabel('pH')
+    plt.xlabel('t [min]')
+    plt.plot(tspan, pH, '.-', label='pH')
+    plt.subplot(3,1,2)
+    plt.ylabel('I')
+    plt.xlabel('t [min]')
+    plt.plot(tspan, I, '.-', label='I')
+    plt.subplot(3,1,3)
+    plt.ylabel('sigma')
+    plt.xlabel('t [min]')
+    plt.plot(tspan, sigma, '.-', label='sigma')
+
+    plt.figure(figsize=(8,12))
+    plt.subplot(2,1,1)
+    plt.title('$\mu_0(t)$')
+    plt.plot(tspan, mu0, '.-', label='mu0')
+    plt.xlabel('time [min]')
+    plt.subplot(2,1,2)
+    plt.title('$\mu_1(t)$')
+    plt.plot(tspan, mu1, '.-', label='mu1')
+    plt.xlabel('time [min]')
+
+    from mpl_toolkits.mplot3d import Axes3D # pylint: disable=W0612
+    fig = plt.figure()
+    ax = fig.add_subplot(111, projection='3d')
+    lst_indx = list(range(0,len(tspan),100))
+    lst_indx = lst_indx if lst_indx[-1] == len(tspan)-1 else lst_indx + [len(tspan)-1]
+    for i_t in lst_indx:
+        ax.scatter(x_span[i_t], np.ones(len(x_span[i_t]))*tspan[i_t], N_span[i_t])
+    ax.set_zlim(0.0, 5.0)
+
+if __name__ == "__main__":
+    run()

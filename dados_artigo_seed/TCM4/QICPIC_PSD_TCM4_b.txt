@@ -1,0 +1,2033 @@
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 13:44:07,429
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.47	
+    7.07	0.61	
+   12.25	0.73	
+   17.32	0.94	
+   22.36	1.37	
+   27.39	1.13	
+   32.40	0.96	
+   37.42	0.77	
+   42.43	0.61	
+   47.43	0.46	
+   52.44	0.29	
+   57.45	0.16	
+   62.45	0.10	
+   67.45	0.05	
+   72.46	0.02	
+   77.46	0.01	
+   82.46	0.00	
+   87.46	0.00	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 59.197	
+    7.50	 36.769	
+   12.50	 25.863	
+   17.50	 23.417	
+   22.50	 26.622	
+   27.50	 17.845	
+   32.50	 12.797	
+   37.50	  8.921	
+   42.50	  6.254	
+   47.50	  4.207	
+   52.50	  2.405	
+   57.50	  1.208	
+   62.50	  0.717	
+   67.50	  0.310	
+   72.50	  0.124	
+   77.50	  0.030	
+   82.50	  0.014	
+   87.50	  0.009	
+   92.50	  0.006	
+   97.50	  0.000	
+  102.50	  0.002	
+  107.50	  0.002	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.000	
+  127.50	  0.000	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+145144
+
+
+
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 13:45:31,762
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.47	
+    7.07	0.62	
+   12.25	0.73	
+   17.32	0.93	
+   22.36	1.36	
+   27.39	1.12	
+   32.40	0.98	
+   37.42	0.78	
+   42.43	0.62	
+   47.43	0.43	
+   52.44	0.30	
+   57.45	0.17	
+   62.45	0.09	
+   67.45	0.04	
+   72.46	0.03	
+   77.46	0.01	
+   82.46	0.00	
+   87.46	0.00	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 58.932	
+    7.50	 37.224	
+   12.50	 25.713	
+   17.50	 23.276	
+   22.50	 26.284	
+   27.50	 17.769	
+   32.50	 13.069	
+   37.50	  9.036	
+   42.50	  6.361	
+   47.50	  3.902	
+   52.50	  2.523	
+   57.50	  1.300	
+   62.50	  0.652	
+   67.50	  0.284	
+   72.50	  0.153	
+   77.50	  0.072	
+   82.50	  0.024	
+   87.50	  0.016	
+   92.50	  0.006	
+   97.50	  0.000	
+  102.50	  0.000	
+  107.50	  0.002	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.000	
+  127.50	  0.000	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+143566
+
+
+
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 13:47:00,574
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.46	
+    7.07	0.61	
+   12.25	0.72	
+   17.32	0.93	
+   22.36	1.35	
+   27.39	1.17	
+   32.40	1.00	
+   37.42	0.80	
+   42.43	0.60	
+   47.43	0.44	
+   52.44	0.31	
+   57.45	0.17	
+   62.45	0.10	
+   67.45	0.05	
+   72.46	0.02	
+   77.46	0.01	
+   82.46	0.00	
+   87.46	0.00	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 58.195	
+    7.50	 36.677	
+   12.50	 25.443	
+   17.50	 23.134	
+   22.50	 26.251	
+   27.50	 18.570	
+   32.50	 13.347	
+   37.50	  9.335	
+   42.50	  6.106	
+   47.50	  4.070	
+   52.50	  2.607	
+   57.50	  1.296	
+   62.50	  0.676	
+   67.50	  0.332	
+   72.50	  0.130	
+   77.50	  0.064	
+   82.50	  0.022	
+   87.50	  0.005	
+   92.50	  0.003	
+   97.50	  0.003	
+  102.50	  0.000	
+  107.50	  0.000	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.000	
+  127.50	  0.000	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+142825
+
+
+
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 13:48:27,570
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.46	
+    7.07	0.61	
+   12.25	0.75	
+   17.32	0.94	
+   22.36	1.35	
+   27.39	1.14	
+   32.40	0.95	
+   37.42	0.78	
+   42.43	0.62	
+   47.43	0.45	
+   52.44	0.31	
+   57.45	0.18	
+   62.45	0.10	
+   67.45	0.05	
+   72.46	0.02	
+   77.46	0.01	
+   82.46	0.00	
+   87.46	0.00	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 57.941	
+    7.50	 36.643	
+   12.50	 26.417	
+   17.50	 23.612	
+   22.50	 26.070	
+   27.50	 18.114	
+   32.50	 12.780	
+   37.50	  9.021	
+   42.50	  6.297	
+   47.50	  4.080	
+   52.50	  2.528	
+   57.50	  1.392	
+   62.50	  0.705	
+   67.50	  0.342	
+   72.50	  0.143	
+   77.50	  0.040	
+   82.50	  0.017	
+   87.50	  0.004	
+   92.50	  0.005	
+   97.50	  0.000	
+  102.50	  0.000	
+  107.50	  0.000	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.000	
+  127.50	  0.000	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+135324
+
+
+
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 13:49:53,729
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.46	
+    7.07	0.60	
+   12.25	0.76	
+   17.32	0.93	
+   22.36	1.35	
+   27.39	1.15	
+   32.40	0.97	
+   37.42	0.78	
+   42.43	0.63	
+   47.43	0.44	
+   52.44	0.28	
+   57.45	0.17	
+   62.45	0.09	
+   67.45	0.04	
+   72.46	0.02	
+   77.46	0.01	
+   82.46	0.00	
+   87.46	0.00	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 58.185	
+    7.50	 36.414	
+   12.50	 26.819	
+   17.50	 23.281	
+   22.50	 26.163	
+   27.50	 18.184	
+   32.50	 12.943	
+   37.50	  9.069	
+   42.50	  6.408	
+   47.50	  4.039	
+   52.50	  2.314	
+   57.50	  1.293	
+   62.50	  0.649	
+   67.50	  0.277	
+   72.50	  0.147	
+   77.50	  0.049	
+   82.50	  0.019	
+   87.50	  0.005	
+   92.50	  0.002	
+   97.50	  0.000	
+  102.50	  0.002	
+  107.50	  0.000	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.002	
+  127.50	  0.002	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+139887
+
+
+
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 13:51:21,922
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.46	
+    7.07	0.61	
+   12.25	0.75	
+   17.32	0.93	
+   22.36	1.36	
+   27.39	1.17	
+   32.40	0.98	
+   37.42	0.79	
+   42.43	0.64	
+   47.43	0.42	
+   52.44	0.28	
+   57.45	0.16	
+   62.45	0.09	
+   67.45	0.05	
+   72.46	0.02	
+   77.46	0.01	
+   82.46	0.00	
+   87.46	0.00	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 57.470	
+    7.50	 36.733	
+   12.50	 26.242	
+   17.50	 23.238	
+   22.50	 26.340	
+   27.50	 18.461	
+   32.50	 13.140	
+   37.50	  9.198	
+   42.50	  6.549	
+   47.50	  3.831	
+   52.50	  2.331	
+   57.50	  1.224	
+   62.50	  0.649	
+   67.50	  0.306	
+   72.50	  0.141	
+   77.50	  0.054	
+   82.50	  0.024	
+   87.50	  0.003	
+   92.50	  0.003	
+   97.50	  0.002	
+  102.50	  0.000	
+  107.50	  0.000	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.000	
+  127.50	  0.000	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+143501
+
+
+
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 13:52:51,506
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.47	
+    7.07	0.61	
+   12.25	0.74	
+   17.32	0.93	
+   22.36	1.33	
+   27.39	1.16	
+   32.40	0.99	
+   37.42	0.80	
+   42.43	0.59	
+   47.43	0.43	
+   52.44	0.29	
+   57.45	0.18	
+   62.45	0.09	
+   67.45	0.04	
+   72.46	0.02	
+   77.46	0.01	
+   82.46	0.01	
+   87.46	0.00	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 58.594	
+    7.50	 36.984	
+   12.50	 26.061	
+   17.50	 23.202	
+   22.50	 25.695	
+   27.50	 18.417	
+   32.50	 13.235	
+   37.50	  9.244	
+   42.50	  6.084	
+   47.50	  3.944	
+   52.50	  2.429	
+   57.50	  1.381	
+   62.50	  0.637	
+   67.50	  0.288	
+   72.50	  0.122	
+   77.50	  0.059	
+   82.50	  0.043	
+   87.50	  0.017	
+   92.50	  0.006	
+   97.50	  0.003	
+  102.50	  0.000	
+  107.50	  0.000	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.000	
+  127.50	  0.000	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+143688
+
+
+
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 13:54:22,027
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.46	
+    7.07	0.61	
+   12.25	0.75	
+   17.32	0.93	
+   22.36	1.37	
+   27.39	1.14	
+   32.40	0.98	
+   37.42	0.78	
+   42.43	0.61	
+   47.43	0.44	
+   52.44	0.29	
+   57.45	0.17	
+   62.45	0.10	
+   67.45	0.04	
+   72.46	0.02	
+   77.46	0.01	
+   82.46	0.01	
+   87.46	0.00	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 57.884	
+    7.50	 36.854	
+   12.50	 26.265	
+   17.50	 23.124	
+   22.50	 26.579	
+   27.50	 18.081	
+   32.50	 13.188	
+   37.50	  9.061	
+   42.50	  6.246	
+   47.50	  4.009	
+   52.50	  2.408	
+   57.50	  1.270	
+   62.50	  0.668	
+   67.50	  0.287	
+   72.50	  0.117	
+   77.50	  0.047	
+   82.50	  0.029	
+   87.50	  0.004	
+   92.50	  0.001	
+   97.50	  0.001	
+  102.50	  0.002	
+  107.50	  0.000	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.000	
+  127.50	  0.000	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+145692
+
+
+
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 13:55:47,709
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.47	
+    7.07	0.62	
+   12.25	0.74	
+   17.32	0.92	
+   22.36	1.34	
+   27.39	1.13	
+   32.40	0.95	
+   37.42	0.78	
+   42.43	0.61	
+   47.43	0.43	
+   52.44	0.28	
+   57.45	0.17	
+   62.45	0.09	
+   67.45	0.04	
+   72.46	0.02	
+   77.46	0.01	
+   82.46	0.00	
+   87.46	0.01	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 59.384	
+    7.50	 37.513	
+   12.50	 26.220	
+   17.50	 23.080	
+   22.50	 26.016	
+   27.50	 17.900	
+   32.50	 12.712	
+   37.50	  9.058	
+   42.50	  6.227	
+   47.50	  3.942	
+   52.50	  2.356	
+   57.50	  1.279	
+   62.50	  0.630	
+   67.50	  0.243	
+   72.50	  0.110	
+   77.50	  0.072	
+   82.50	  0.018	
+   87.50	  0.037	
+   92.50	  0.006	
+   97.50	  0.002	
+  102.50	  0.000	
+  107.50	  0.000	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.000	
+  127.50	  0.000	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+143774
+
+
+
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 13:57:10,643
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.46	
+    7.07	0.61	
+   12.25	0.74	
+   17.32	0.94	
+   22.36	1.36	
+   27.39	1.15	
+   32.40	0.99	
+   37.42	0.78	
+   42.43	0.59	
+   47.43	0.43	
+   52.44	0.27	
+   57.45	0.17	
+   62.45	0.09	
+   67.45	0.05	
+   72.46	0.02	
+   77.46	0.01	
+   82.46	0.01	
+   87.46	0.00	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 58.419	
+    7.50	 36.687	
+   12.50	 25.933	
+   17.50	 23.576	
+   22.50	 26.389	
+   27.50	 18.247	
+   32.50	 13.295	
+   37.50	  9.077	
+   42.50	  6.034	
+   47.50	  3.951	
+   52.50	  2.273	
+   57.50	  1.262	
+   62.50	  0.647	
+   67.50	  0.344	
+   72.50	  0.147	
+   77.50	  0.042	
+   82.50	  0.032	
+   87.50	  0.007	
+   92.50	  0.005	
+   97.50	  0.000	
+  102.50	  0.000	
+  107.50	  0.000	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.000	
+  127.50	  0.000	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+142093
+
+
+
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 13:58:41,619
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.46	
+    7.07	0.61	
+   12.25	0.75	
+   17.32	0.93	
+   22.36	1.35	
+   27.39	1.16	
+   32.40	0.96	
+   37.42	0.79	
+   42.43	0.61	
+   47.43	0.45	
+   52.44	0.29	
+   57.45	0.18	
+   62.45	0.09	
+   67.45	0.05	
+   72.46	0.02	
+   77.46	0.01	
+   82.46	0.00	
+   87.46	0.00	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 57.980	
+    7.50	 36.761	
+   12.50	 26.465	
+   17.50	 23.209	
+   22.50	 26.105	
+   27.50	 18.353	
+   32.50	 12.887	
+   37.50	  9.175	
+   42.50	  6.278	
+   47.50	  4.079	
+   52.50	  2.404	
+   57.50	  1.344	
+   62.50	  0.626	
+   67.50	  0.292	
+   72.50	  0.116	
+   77.50	  0.056	
+   82.50	  0.025	
+   87.50	  0.012	
+   92.50	  0.000	
+   97.50	  0.000	
+  102.50	  0.000	
+  107.50	  0.000	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.000	
+  127.50	  0.000	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+144640
+
+
+
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 14:00:06,280
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.46	
+    7.07	0.62	
+   12.25	0.74	
+   17.32	0.93	
+   22.36	1.35	
+   27.39	1.16	
+   32.40	0.95	
+   37.42	0.77	
+   42.43	0.62	
+   47.43	0.43	
+   52.44	0.29	
+   57.45	0.17	
+   62.45	0.09	
+   67.45	0.05	
+   72.46	0.02	
+   77.46	0.01	
+   82.46	0.01	
+   87.46	0.00	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 57.978	
+    7.50	 37.581	
+   12.50	 26.042	
+   17.50	 23.246	
+   22.50	 26.113	
+   27.50	 18.349	
+   32.50	 12.729	
+   37.50	  8.979	
+   42.50	  6.337	
+   47.50	  3.903	
+   52.50	  2.376	
+   57.50	  1.316	
+   62.50	  0.646	
+   67.50	  0.337	
+   72.50	  0.128	
+   77.50	  0.060	
+   82.50	  0.032	
+   87.50	  0.012	
+   92.50	  0.005	
+   97.50	  0.000	
+  102.50	  0.000	
+  107.50	  0.000	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.000	
+  127.50	  0.000	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+139014
+
+
+
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 14:01:35,717
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.46	
+    7.07	0.62	
+   12.25	0.75	
+   17.32	0.93	
+   22.36	1.35	
+   27.39	1.13	
+   32.40	0.98	
+   37.42	0.79	
+   42.43	0.61	
+   47.43	0.44	
+   52.44	0.29	
+   57.45	0.17	
+   62.45	0.08	
+   67.45	0.05	
+   72.46	0.02	
+   77.46	0.01	
+   82.46	0.00	
+   87.46	0.00	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 58.558	
+    7.50	 37.112	
+   12.50	 26.305	
+   17.50	 23.143	
+   22.50	 26.256	
+   27.50	 17.964	
+   32.50	 13.057	
+   37.50	  9.110	
+   42.50	  6.238	
+   47.50	  3.981	
+   52.50	  2.373	
+   57.50	  1.280	
+   62.50	  0.570	
+   67.50	  0.297	
+   72.50	  0.107	
+   77.50	  0.045	
+   82.50	  0.014	
+   87.50	  0.014	
+   92.50	  0.004	
+   97.50	  0.003	
+  102.50	  0.000	
+  107.50	  0.000	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.000	
+  127.50	  0.000	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+146110
+
+
+
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 14:03:01,618
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.46	
+    7.07	0.62	
+   12.25	0.75	
+   17.32	0.92	
+   22.36	1.36	
+   27.39	1.15	
+   32.40	0.98	
+   37.42	0.77	
+   42.43	0.60	
+   47.43	0.44	
+   52.44	0.29	
+   57.45	0.17	
+   62.45	0.09	
+   67.45	0.04	
+   72.46	0.02	
+   77.46	0.01	
+   82.46	0.00	
+   87.46	0.00	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 58.498	
+    7.50	 37.215	
+   12.50	 26.337	
+   17.50	 23.013	
+   22.50	 26.298	
+   27.50	 18.272	
+   32.50	 13.062	
+   37.50	  8.899	
+   42.50	  6.091	
+   47.50	  3.999	
+   52.50	  2.400	
+   57.50	  1.256	
+   62.50	  0.611	
+   67.50	  0.280	
+   72.50	  0.113	
+   77.50	  0.041	
+   82.50	  0.009	
+   87.50	  0.003	
+   92.50	  0.003	
+   97.50	  0.000	
+  102.50	  0.000	
+  107.50	  0.002	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.000	
+  127.50	  0.000	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+142392
+
+
+
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 14:04:32,929
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.47	
+    7.07	0.61	
+   12.25	0.73	
+   17.32	0.93	
+   22.36	1.32	
+   27.39	1.18	
+   32.40	1.00	
+   37.42	0.77	
+   42.43	0.60	
+   47.43	0.45	
+   52.44	0.29	
+   57.45	0.17	
+   62.45	0.10	
+   67.45	0.04	
+   72.46	0.02	
+   77.46	0.01	
+   82.46	0.00	
+   87.46	0.00	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 59.018	
+    7.50	 36.838	
+   12.50	 25.843	
+   17.50	 23.286	
+   22.50	 25.532	
+   27.50	 18.674	
+   32.50	 13.352	
+   37.50	  8.955	
+   42.50	  6.124	
+   47.50	  4.152	
+   52.50	  2.388	
+   57.50	  1.284	
+   62.50	  0.704	
+   67.50	  0.276	
+   72.50	  0.138	
+   77.50	  0.044	
+   82.50	  0.019	
+   87.50	  0.003	
+   92.50	  0.005	
+   97.50	  0.003	
+  102.50	  0.000	
+  107.50	  0.000	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.000	
+  127.50	  0.000	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+144072
+
+
+
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 14:05:57,069
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.46	
+    7.07	0.61	
+   12.25	0.74	
+   17.32	0.95	
+   22.36	1.33	
+   27.39	1.16	
+   32.40	0.97	
+   37.42	0.80	
+   42.43	0.65	
+   47.43	0.45	
+   52.44	0.28	
+   57.45	0.16	
+   62.45	0.09	
+   67.45	0.05	
+   72.46	0.02	
+   77.46	0.01	
+   82.46	0.00	
+   87.46	0.00	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 57.829	
+    7.50	 36.801	
+   12.50	 26.084	
+   17.50	 23.629	
+   22.50	 25.685	
+   27.50	 18.423	
+   32.50	 12.957	
+   37.50	  9.265	
+   42.50	  6.637	
+   47.50	  4.099	
+   52.50	  2.343	
+   57.50	  1.172	
+   62.50	  0.646	
+   67.50	  0.322	
+   72.50	  0.124	
+   77.50	  0.060	
+   82.50	  0.013	
+   87.50	  0.011	
+   92.50	  0.002	
+   97.50	  0.002	
+  102.50	  0.000	
+  107.50	  0.000	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.000	
+  127.50	  0.000	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+138316
+
+
+
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 14:07:21,623
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.46	
+    7.07	0.61	
+   12.25	0.74	
+   17.32	0.94	
+   22.36	1.34	
+   27.39	1.17	
+   32.40	0.98	
+   37.42	0.79	
+   42.43	0.61	
+   47.43	0.42	
+   52.44	0.30	
+   57.45	0.17	
+   62.45	0.10	
+   67.45	0.04	
+   72.46	0.02	
+   77.46	0.01	
+   82.46	0.01	
+   87.46	0.00	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 57.959	
+    7.50	 36.656	
+   12.50	 26.235	
+   17.50	 23.519	
+   22.50	 25.905	
+   27.50	 18.514	
+   32.50	 13.071	
+   37.50	  9.220	
+   42.50	  6.223	
+   47.50	  3.886	
+   52.50	  2.507	
+   57.50	  1.287	
+   62.50	  0.682	
+   67.50	  0.285	
+   72.50	  0.106	
+   77.50	  0.050	
+   82.50	  0.030	
+   87.50	  0.016	
+   92.50	  0.003	
+   97.50	  0.005	
+  102.50	  0.000	
+  107.50	  0.000	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.000	
+  127.50	  0.000	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+139437
+
+
+
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 14:08:46,808
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.45	
+    7.07	0.63	
+   12.25	0.74	
+   17.32	0.94	
+   22.36	1.36	
+   27.39	1.16	
+   32.40	0.94	
+   37.42	0.76	
+   42.43	0.63	
+   47.43	0.43	
+   52.44	0.29	
+   57.45	0.15	
+   62.45	0.08	
+   67.45	0.04	
+   72.46	0.02	
+   77.46	0.01	
+   82.46	0.00	
+   87.46	0.00	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 57.114	
+    7.50	 37.877	
+   12.50	 26.158	
+   17.50	 23.382	
+   22.50	 26.433	
+   27.50	 18.399	
+   32.50	 12.593	
+   37.50	  8.869	
+   42.50	  6.409	
+   47.50	  3.951	
+   52.50	  2.395	
+   57.50	  1.145	
+   62.50	  0.580	
+   67.50	  0.278	
+   72.50	  0.115	
+   77.50	  0.050	
+   82.50	  0.016	
+   87.50	  0.003	
+   92.50	  0.007	
+   97.50	  0.005	
+  102.50	  0.002	
+  107.50	  0.000	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.000	
+  127.50	  0.000	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+150914
+
+
+
+ 	 
+QICPIC (QP0002) & LIXELL, 5.00 63.0 mm - M4 (2 ... 682 µm)
+Torraca_TCM4	2019-03-29, 14:10:13,598
+
+
+
+Aspect ratio (AR) vs. size 
+xm/µm	aspect ratio		
+ 
+
+
+
+AR cumulative distribution	Mean AR density
+aspect ratio	cumulative		mean aspect ratio	distribution	
+distribution	distribution						
+aO	Q0 / %			am	q0	
+ 
+
+
+
+Distribution density (log.)
+size determined for calculation:  FERET_MEAN
+
+mean size	distribution	
+for band	density (log)	
+xm/µm	q0lg	
+    1.60	0.00	
+    3.36	0.46	
+    7.07	0.62	
+   12.25	0.76	
+   17.32	0.94	
+   22.36	1.34	
+   27.39	1.15	
+   32.40	0.94	
+   37.42	0.78	
+   42.43	0.59	
+   47.43	0.45	
+   52.44	0.30	
+   57.45	0.17	
+   62.45	0.09	
+   67.45	0.04	
+   72.46	0.02	
+   77.46	0.01	
+   82.46	0.01	
+   87.46	0.00	
+   92.47	0.00	
+   97.47	0.00	
+  102.47	0.00	
+  107.47	0.00	
+  112.47	0.00	
+  117.47	0.00	
+  122.47	0.00	
+  127.48	0.00	
+  132.48	0.00	
+  137.48	0.00	
+  142.48	0.00	
+  147.48	0.00	
+ 1023.80	0.00	
+ 
+
+
+
+distribution density (lin.)
+size determined for calculation:  FERET_MEAN
+mean size	distribution	
+for band	density (linear)	
+xm/µm	q0/1/mm	
+    1.69	  0.000	
+    3.63	 57.882	
+    7.50	 37.309	
+   12.50	 26.637	
+   17.50	 23.423	
+   22.50	 26.041	
+   27.50	 18.259	
+   32.50	 12.588	
+   37.50	  9.040	
+   42.50	  6.057	
+   47.50	  4.081	
+   52.50	  2.457	
+   57.50	  1.252	
+   62.50	  0.594	
+   67.50	  0.254	
+   72.50	  0.125	
+   77.50	  0.062	
+   82.50	  0.037	
+   87.50	  0.023	
+   92.50	  0.003	
+   97.50	  0.002	
+  102.50	  0.000	
+  107.50	  0.000	
+  112.50	  0.000	
+  117.50	  0.000	
+  122.50	  0.000	
+  127.50	  0.000	
+  132.50	  0.000	
+  137.50	  0.000	
+  142.50	  0.000	
+  147.50	  0.000	
+ 3568.87	  0.000	
+
+
+
+Particles in QICPIC calculation
+148488
+
+
+
